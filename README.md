@@ -1,24 +1,23 @@
-# Projet d'Ontologie à partir du Dictionnaire "My First Incredible Amazing Dictionary" avec Amine
+# Ontology Project from "My First Incredible Amazing Dictionary" with Amine
 
-Ce projet a pour objectif la création d'une ontologie en utilisant la plateforme Amine à partir des données fournies dans le dictionnaire "My First Incredible Amazing Dictionary". Une ontologie est une représentation formelle et structurée des connaissances dans un domaine particulier.
+This project aims to create an ontology using the Amine platform from the data provided in the "My First Incredible Amazing Dictionary." An ontology is a formal and structured representation of knowledge in a particular domain.
 
 ## Introduction
 
-Le dictionnaire "My First Incredible Amazing Dictionary" est une source riche de données, et ce projet vise à extraire des informations pertinentes pour créer une ontologie. L'ontologie résultante peut être utilisée pour diverses applications, telles que la recherche d'informations, la recommandation de produits ou la génération de contenu.
+The "My First Incredible Amazing Dictionary" is a rich source of data, and this project aims to extract relevant information to build an ontology. The resulting ontology can be used for various applications, such as information retrieval, product recommendation, or content generation.
 
-## Prérequis
+## Prerequisites
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre système :
+Before getting started, make sure you have the following installed on your system:
 
-- [Amine](lien_vers_le_site_de_Amine) : La plateforme Amine est utilisée pour créer et gérer l'ontologie.
+- [Amine](link_to_Amine_website): Amine platform is used to create and manage the ontology.
 
-## Instructions d'utilisation
+## Usage Instructions
 
-1. Clonez ce dépôt sur votre machine locale :
+1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/votre_utilisateur/ontologie-amazing-dictionary.git
-
+   git clone https://github.com/your_username/amazing-dictionary-ontology.git
 
  ## Contact :busts_in_silhouette:
 Feel free to reach out to us if you have any questions or suggestions:
