@@ -17,7 +17,14 @@ Before getting started, make sure you have the following installed on your syste
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/amazing-dictionary-ontology.git
+   git clone https://github.com/chaimaebouyarmane/ontologie-amazing-dictionary_with_Amine_Platform.git
+
+2. Accédez au répertoire du projet :
+
+```bash
+   cd ontologie-amazing-dictionary_with_Amine_Platform
+
+3. Suivez les instructions spécifiques à Amine pour créer l'ontologie à partir du dictionnaire "My First Incredible Amazing Dictionary". 
 
  ## Contact :busts_in_silhouette:
 Feel free to reach out to us if you have any questions or suggestions:
