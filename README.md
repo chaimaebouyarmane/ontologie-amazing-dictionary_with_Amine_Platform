@@ -19,12 +19,16 @@ Before getting started, make sure you have the following installed on your syste
    ```bash
    git clone https://github.com/chaimaebouyarmane/ontologie-amazing-dictionary_with_Amine_Platform.git
    ```
-2. Accédez au répertoire du projet :
+2. Navigate to the project directory:
 
-  ```bash
-   cd ontologie-amazing-dictionary_with_Amine_Platform
-  ```
-3. Suivez les instructions spécifiques à Amine pour créer l'ontologie à partir du dictionnaire "My First Incredible Amazing Dictionary". 
+ ```bash
+cd amazing-dictionary-ontology
+ ```
+3. Follow the Amine-specific instructions to create the ontology from the "My First Incredible Amazing Dictionary." Ensure that you document each step of this process in your detailed report.
+
+## Detailed Report
+For more information on the methodology, results, and conclusions of this project, please refer to the detailed [Report](https://github.com/chaimaebouyarmane/ontologie-amazing-dictionary_with_Amine_Platform/blob/main/Rapport.pdf).
+
 
  ## Contact :busts_in_silhouette:
 Feel free to reach out to us if you have any questions or suggestions:
@@ -36,7 +40,3 @@ Feel free to reach out to us if you have any questions or suggestions:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
 </a> 
 
-
----
-
-✨ Leverage sentiment analysis to enhance customer experience, address issues, and stand out from the competition! ✨
