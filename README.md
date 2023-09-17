@@ -10,7 +10,7 @@ The "My First Incredible Amazing Dictionary" is a rich source of data, and this 
 
 Before getting started, make sure you have the following installed on your system:
 
-- [Amine](link_to_Amine_website): Amine platform is used to create and manage the ontology.
+- [Amine](https://amine-platform.sourceforge.net/): Amine platform is used to create and manage the ontology.
 
 ## Usage Instructions
 
