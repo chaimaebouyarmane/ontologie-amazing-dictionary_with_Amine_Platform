@@ -24,7 +24,7 @@ Before getting started, make sure you have the following installed on your syste
  ```bash
 cd amazing-dictionary-ontology
  ```
-3. Follow the Amine-specific instructions to create the ontology from the "My First Incredible Amazing Dictionary." Ensure that you document each step of this process in your detailed report.
+3. Follow the Amine-specific instructions to create the ontology from the "My First Incredible Amazing Dictionary.
 
 ## Detailed Report
 For more information on the methodology, results, and conclusions of this project, please refer to the detailed [Report](https://github.com/chaimaebouyarmane/ontologie-amazing-dictionary_with_Amine_Platform/blob/main/Rapport.pdf).
